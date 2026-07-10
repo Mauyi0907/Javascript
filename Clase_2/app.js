@@ -6,7 +6,7 @@ info para mi */
 
 let tituloTareaUno = "Comprar café";
 const fechaCreacion = "2026-06-19"
-
+let precio = 5;
 console.log(tituloTareaUno);
 console.log(fechaCreacion);
 
@@ -16,3 +16,10 @@ console.log(tituloTareaUno);
 
 /*fechaCreacion = "2026-06-18"
 console.log(fechaCreacion) */
+
+
+
+
+
+
+
